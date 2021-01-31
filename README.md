@@ -1,6 +1,6 @@
-<H1> Exemples de codes en Python </H1>
+<H1> Exemples pour Proteus 8.10 </H1>
 
-<P> Voici une librairie de code en Python. Cette librairie est 100% gratuite et ouverte à tous. <BR>
+<P> Voici une librairie de projets sur Proteus 8.10. Cette librairie est 100% gratuite et ouverte à tous. <BR>
  
 
 </P>
@@ -37,7 +37,7 @@
 
 ```
  {Windows Powershell / Command Prompt / Linux}
-  > git clone https://github.com/filoucool/PythonExamples-Help.git
+  > git clone https://github.com/filoucool/Proteus8_Help.git
 ```
 
 <ul>
